@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FragmentsApps</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">Profile</string>
+    <string name="fragment_2">Fragment 2</string>
+    <string name="john_m_nasendi">John M.Nasendi</string>
+    <string name="web_developer">Web Developer</string>
+    <string name="kampus">Kampus</string>
+    <string name="university_mulia">University Mulia</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="informatika_s1">Informatika S1</string>
+    <string name="hobby">Hobby</string>
+    <string name="coding_eat_sleep">Coding,Eat, Sleep</string>
+    <string name="jhonmaurits_universitasmulia_ac_id">jhonmaurits@universitasmulia.ac.id</string>
+    <string name="johan_nasendi">johan.nasendi</string>
+    <string name="johannasendi">JohanNasendi</string>
+</resources>
